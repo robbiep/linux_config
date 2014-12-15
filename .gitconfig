@@ -1,0 +1,12 @@
+[user]
+	email = robbie.perlstein@gmail.com
+	name = robbie
+[alias]
+	a = add
+	ps = push
+	pl = pull
+	s = status
+	c = commit
+	b = branch
+	l = log
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
