@@ -1,4 +1,11 @@
 alias g='git'
+alias gs='git status'
+alias gb='git branch'
+alias gc='git commit'
+alias ga='git add'
+alias gpl='git pull'
+alias gps='git push'
+alias gl='git log'
 alias v='vim'
 alias ..="cd .."
 alias ...="cd ../.."

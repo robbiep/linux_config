@@ -26,6 +26,7 @@ filetype plugin indent on    " required
 
 " Settings
 syntax enable
+set shiftwidth=2
 set tabstop=2
 set softtabstop=2
 set expandtab
@@ -37,6 +38,7 @@ set lazyredraw
 set showmatch
 set incsearch
 set hlsearch
+filetype plugin indent off
 
 
 " vim airline
